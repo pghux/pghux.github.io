@@ -1,2 +1,3 @@
 [credential "https://github.com/pghux/pghux.git"]
-helper = store
+    username = pghux
+    password = Denver2020
